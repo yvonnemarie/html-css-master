@@ -1,0 +1,37 @@
+html, body, #atf {
+         padding: 0;
+         border: 0;
+         margin: 0;
+         height: 100%
+ #atf {
+
+ }
+
+
+ header {
+           position: fixed;
+           background-color: gray;
+           background-image: url(surf.jpg);
+           background-size: cover;
+           background-position: center;
+           background-attachment: fixed;
+           background-repeat: no-repeat;
+       }
+
+
+ main {
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+ h1 {
+            color: black;
+            font-size: 5rem;
+            text-align: center;
+
+        }
+
+

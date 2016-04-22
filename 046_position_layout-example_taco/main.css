@@ -1,0 +1,22 @@
+html {
+    margin: 15px;
+}
+
+body {
+    border: 1px solid black;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+nav, main {
+    border: 1px solid red;
+}
+
+nav {
+    position: absolute;
+    width: 200px;
+}
+
+main {
+    margin: 0 0 10px 200px;
+}

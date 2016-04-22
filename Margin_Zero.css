@@ -1,0 +1,53 @@
+
+* {
+    border: 1px dashed purple;
+     }
+
+
+ body {
+           width: 80%;
+           /*max-width: 600px;*/
+                   margin: 0 auto;
+           padding: 20px;
+       }
+
+
+ div {
+            height: 50px;
+            width: 100px;
+          border: 2px solid hotpink;
+            border-radius: 5px;
+            margin: 0 auto;
+        }
+
+
+ #one {
+            background-color: #FF0000;
+        }
+
+
+ #two {
+            background-color: #0000FF;
+        }
+
+
+ #three {
+            background-color: #FFD700;
+        }
+
+
+ #four {
+            background-color: #308014;
+        }
+
+
+Status
+API
+Training
+Shop
+Blog
+About
+© 2016 GitHub, Inc.
+Terms
+Privacy
+Security

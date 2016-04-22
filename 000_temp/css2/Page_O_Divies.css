@@ -1,0 +1,22 @@
+div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.one {
+    background-color: pink;
+}
+
+.two {
+    background-color: green;
+}
+
+.three {
+    background-color: purple;
+}
+
+.four {
+    background-color: red;

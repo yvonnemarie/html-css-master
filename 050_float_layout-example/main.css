@@ -1,0 +1,23 @@
+header, section, footer {
+    border-radius: 5px;
+}
+
+header {
+    height: 100px;
+    background-color: #F38630;
+    margin-bottom: 15px;
+}
+
+section {
+    width: 30%;
+    height: 300px;
+    margin: 0 1.5% 15px 1.5%;
+    background-color: #A7DBD8;
+    float: left;
+}
+
+footer {
+    height: 100px;
+    background-color: #69D2E7;
+    clear: left;
+}
