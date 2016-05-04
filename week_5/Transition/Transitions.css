@@ -1,0 +1,43 @@
+html, body, div {
+    padding: 0;
+    margin: 0;
+
+}
+
+html, body {
+    height: 100%;
+
+}
+html {
+    font-size: 1vw;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    <p>Lorem ipsum</p>
+
+    <p::first-letter</p>
+    <p::first-line</p>
+
+}
+
+div {
+    height: 20rem;
+    width: 60rem;
+    background-color: #00C957;
+    border-radius: 4rem;
+    animation-name: rotater;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+div:hover {
+
+
+}
+
