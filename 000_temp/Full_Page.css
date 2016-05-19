@@ -10,7 +10,7 @@ html, body, #atf {
 
  header {
            position: fixed;
-           background-color: gray;
+           background-color: hotpink;
            background-image: url(surf.jpg);
            background-size: cover;
            background-position: center;
@@ -28,7 +28,7 @@ html, body, #atf {
 
 
  h1 {
-            color: black;
+            color: purple;
             font-size: 5rem;
             text-align: center;
 
