@@ -14,8 +14,8 @@ svg {
 
 
  #MyRinger:hover {
-            fill: orange;
-            stroke: red;
+            fill: purple;
+            stroke: lightblue;
             stroke-width: .1px;
         }
 
