@@ -1,0 +1,21 @@
+html, header, body {
+    background-color: lightblue;
+}
+
+
+h1 {
+    color: black;
+    font-size: 5rem;
+    text-align: center;
+    background-color: gray;
+    background-image: url(tiger_image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+}
+
+
+
